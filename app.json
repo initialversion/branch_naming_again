@@ -1,0 +1,1 @@
+{"name":"branch naming again","repository":"https://github.com/initialversion/branch_naming_again","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
